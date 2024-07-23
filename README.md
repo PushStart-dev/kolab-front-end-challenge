@@ -49,13 +49,14 @@ Utilizar a api [https://jsonplaceholder.typicode.com/guide/](https://jsonplaceho
 
 ### Bônus
 
-- Adicionar imagens aos posts
-- Adicionar avatar aos usuários
-- Implementar busca de usuários por nome
+- Adicionar imagens aos posts.
+- Adicionar avatar aos usuários.
+- Implementar busca de usuários por nome.
+- Permitir que o usuário remova vários posts de uma só vez.
 - Testes automatizados (unitários e/ou end-to-end).
-- Gerenciamento de erros
-- Storybook
-- Implementar localização (i18n)
+- Gerenciamento de erros.
+- Storybook.
+- Implementar localização (i18n).
 
 ### Observações
 
