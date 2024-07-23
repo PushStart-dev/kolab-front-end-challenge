@@ -3,7 +3,7 @@
 ### Objetivo
 
 Construir um feed de posts utilizando React e Typescript.
-Utilizar a api [https://jsonplaceholder.typicode.com/guide/](https://jsonplaceholder.typicode.com/guide/) para listar usuários, posts e comentários. 
+Utilizar a api [https://jsonplaceholder.typicode.com/guide/](https://jsonplaceholder.typicode.com/guide/) para buscar os usuários, posts e comentários. 
 
 ### Funcionalidades Requeridas
 
