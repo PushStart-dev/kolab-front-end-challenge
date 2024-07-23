@@ -40,7 +40,7 @@ Utilizar a api [https://jsonplaceholder.typicode.com/guide/](https://jsonplaceho
 
 4. **Usabilidade**
    
-   Facilidade de uso e experiência do usuário.
+   Acessibilidade, facilidade de uso e experiência do usuário.
 
 5. **Responsividade**
 
