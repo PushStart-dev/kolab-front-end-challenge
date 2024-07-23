@@ -19,19 +19,14 @@ Utilizar a api [https://jsonplaceholder.typicode.com/guide/](https://jsonplaceho
 
    Clicar em um usuário deve levar a uma página que mostra os posts do usuário
 
-3. **Criação de posts**
+3. **Gerenciamento de posts**
 
-   Deve haver uma forma na aplicação de criar, editar e remover os posts feitos por mim
+   O usuário deve conseguir cadastrar novos posts. Ele também deve conseguir editar e remover estes posts.
 
 4. **Perfil**
 
    Deve existir uma página para visualizar e editar os dados do usuário atual.
 	   - Não precisa fazer um mecanismo de autenticação. Pode assumir que o usuário já temos um usuário autenticado ao acessar a aplicação.
-	   -  
-
-5. **Gerenciamento de Posts**
-
-   Deve ser possível criar, editar e excluir posts.
 
 ### Critérios de Avaliação
 
