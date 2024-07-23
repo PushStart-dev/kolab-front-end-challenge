@@ -75,3 +75,4 @@ Utilizar a api [https://jsonplaceholder.typicode.com/guide/](https://jsonplaceho
 
 - O desafio pode ser compartilhado como um repositório no GitHub ou enviado em um arquivo compactado.
 - Inclua um arquivo README com instruções de como rodar a aplicação.
+- O prazo para realizar o desafio é de uma semana. Caso surja algum imprevisto e precise de mais tempo, por favor, nos avise.
